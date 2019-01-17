@@ -290,6 +290,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _rhs
+  - scope:
+      path: ""
+      type: rhs
+    values:
+      layout: single
+      author_profile: false
+      share: true
   # _posts
   - scope:
       path: ""
@@ -308,5 +316,8 @@ defaults:
 #collections
 collections:
   pests:
+    output: true
+    permalink: /:collection/:path
+  rhs:
     output: true
     permalink: /:collection/:path/
