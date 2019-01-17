@@ -10,4 +10,11 @@ layout: archive
   {% include archive-single.html %}
 {% endfor %}
 
+{% for r in site.rhs %}
+  <a href="{{ r.url | prepend: site.baseurl }}">
+        <h2>{{ r.title }}</h2>
+  </a>
+  <p class="post-excerpt">{{ r.description | truncate: 160 }}</p>
+{% endfor %} 
+
 {% include paginator.html %}
