@@ -285,7 +285,7 @@ defaults:
   # _pests
   - scope:
       path: ""
-      type: portfolio
+      type: pests
     values:
       layout: single
       author_profile: false
