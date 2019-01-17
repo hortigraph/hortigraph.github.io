@@ -3,7 +3,7 @@ title: Pests Summary
 
 ---
 
-<h2 id="summary-of-pests-damage-and-controls">Summary of Pests, Damage and Controls</h2>
+<h2 id="summary-of-pests-damage-and-controls-by-pest">Summary of Pests, Damage and Controls by pest</h2>
 
 <table>
 <thead>
