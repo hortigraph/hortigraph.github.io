@@ -5,8 +5,9 @@ author: Nigel Wheeler
 tags: 'RHS, R2102, Qualifications, Tickets'
 categories: Education
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  show_overlay_excerpt: false
+  overlay_image: /assets/images/bg.jpg
+  show_overlay_excerpt: true
+  exerpt: "Plant classification, structure & function"
   caption: "Photo credit: [**Nigel Wheeler**](https://nigelwheeler.com/images)"
   actions:
     - label: "Learn more"
