@@ -1,5 +1,6 @@
 ---
 title: RHS R2101 Summary
+description: "Plant classification, structure & function"
 author: Nigel Wheeler
 tags: 'RHS, R2102, Qualifications, Tickets'
 categories: Education
