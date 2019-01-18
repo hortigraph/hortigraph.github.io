@@ -4,7 +4,7 @@ author: Nigel Wheeler
 tags: 'RHS, R2102, Qualifications, Tickets'
 categories: Education
 header:
-  overlay_image: https://drive.google.com/file/d/1w4NQ6ERpeCXqtq99L8Qk2vPM3VWG-Rkf/view?usp=sharing
+  overlay_image: "/assets/images/bg.jpg"
   caption: "Photo credit: [**Nigel Wheeler**](https://nigelwheeler.com/images)"
   actions:
     - label: "Learn more"
