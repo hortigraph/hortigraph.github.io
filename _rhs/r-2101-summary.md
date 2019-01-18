@@ -3,7 +3,8 @@ title: RHS R2101 Summary
 author: Nigel Wheeler
 tags: 'RHS, R2102, Qualifications, Tickets'
 categories: Education
-
+header:
+  image: http://placehold.it/350x250  
 ---
 
 <h2 id="subject-summary">Subject Summary</h2>
