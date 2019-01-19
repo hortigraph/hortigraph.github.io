@@ -297,6 +297,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar:
+        nav: "rhs"
       share: true
       read_time: true
   # _posts
