@@ -1,12 +1,32 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+  # rhs exams
+  rhs:
+  - title: Overview
+    url: url: /rhs/index/
+    children:
+      - title: "R2101"
+        url: /rhs/r-2101-summary/
+        children:
+        - title: "R2101 1"
+          url: /rhs/r-2101-1/
+        - title: "R2101 2"
+          url: /rhs/r-2101-2/
+        - title: "R2101 3"
+          url: /rhs/r-2101-3/
+      - title: "R2102"
+        url: /rhs/r-2102-summary/
+        children:
+        - title: "R2102 3"
+          url: /rhs/r-2102-3/
