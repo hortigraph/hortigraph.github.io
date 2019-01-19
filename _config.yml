@@ -297,10 +297,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-      sidebar:
-        nav: "rhs"
       share: true
       read_time: true
+      sidebar:
+        nav: "rhs"
   # _posts
   - scope:
       path: ""
