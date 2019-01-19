@@ -59,9 +59,9 @@ comments:
         options:
           format           : "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
     endpoint               : "https://dev.staticman.net/v3/entry/github/hortigraph/hortigraph.github.io/" # URL of your own deployment with trailing slash, will fallback to the public instance
-reCaptcha:
-  siteKey                :
-  secret                 :
+    reCaptcha:
+      siteKey                : #
+      secret                 : #
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
