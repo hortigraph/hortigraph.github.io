@@ -32,7 +32,7 @@ comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   staticman:
     branch               : "master"
-    endpoint             : "https://dev.staticman.net/v3/entry/github/" # URL of your own deployment with trailing slash, will fallback to the public instance
+    endpoint             : "https://dev.staticman.net/v3/entry/github/hortigraph/hortigraph.github.io/master/" # URL of your own deployment with trailing slash, will fallback to the public instance
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
