@@ -30,9 +30,23 @@ breadcrumbs              : true # false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
-  staticman:
-    branch               : "master"
-    endpoint             : "https://dev.staticman.net/v3/entry/github/" # URL of your own deployment with trailing slash, will fallback to the public instance
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment by {fields.name}"
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "/_data/comments/{options.slug}" # (default)
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # (default) "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : "https://dev.staticman.net/v3/entry/github/" # URL of your own deployment with trailing slash, will fallback to the public instance
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
