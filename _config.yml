@@ -271,6 +271,8 @@ defaults:
       share: true
       read_time: true
       comments: true
+      header:
+        overlay_color: "#333"
       sidebar:
         nav: "rhs"
   # _posts
