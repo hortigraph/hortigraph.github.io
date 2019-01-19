@@ -9,10 +9,9 @@ main:
   - title: "Sample Collections"
     url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/
-  
-  # rhs exams
-  rhs:
+  #   url: /sitemap/  
+# rhs exams
+rhs:
   - title: Overview
     url: url: /rhs/index/
     children:
