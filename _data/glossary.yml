@@ -1,0 +1,19 @@
+terms:
+#####
+# A
+#####
+# angiosperm
+- term: angiosperm
+  plantname: false
+  url: /glossary/a/angiosperm/
+  definition: "High level taxonomic catergory of flowering plants."
+  compare: ['gymosperm']
+ #####
+ # G
+ #####
+ # gymnosperm
+- term: gymnosperm
+  plantname: false
+  url: /glossary/g/gymnosperm/
+  definition: "High level taxonomic catergory of non-flowering plants."
+  compare: ['angiosperm']
