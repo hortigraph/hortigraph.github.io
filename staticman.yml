@@ -5,7 +5,8 @@
 # To encrypt strings use the following endpoint:
 # https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
 
-comments:
+#try removing comments key...
+#comments:
   # (*) REQUIRED
   #
   # Names of the fields the form is allowed to submit. If a field that is
