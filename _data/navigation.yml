@@ -6,25 +6,39 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+  #- title: "Sample Collections"
+  #  url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/  
 # rhs exams
 rhs:
   - title: Overview
-    url: /rhs/index/
+    url: /rhs/
   - title: "R2101"
-    url: /rhs/r-2101-summary/
-    children:      
+    children:
+      - title: "Summary"
+        url: /rhs/r-2101-index/
       - title: "R2101 1"
         url: /rhs/r-2101-1/
       - title: "R2101 2"
         url: /rhs/r-2101-2/
       - title: "R2101 3"
         url: /rhs/r-2101-3/
+      - title: "R2101 4"
+        url: /rhs/r-2101-4/
   - title: "R2102"
-    url: /rhs/r-2102-summary/
     children:
-    - title: "R2102 3"
-      url: /rhs/r-2102-3/
+      - title: "Summary"
+        url: /rhs/r-2102-index/
+      - title: "R2102 1"
+        url: /rhs/r-2102-1/
+      - title: "R2102 3"
+        url: /rhs/r-2102-3/
+  - title: "R2111"
+    children:
+      - title: "Summary"
+        url: /rhs/r-2111-index/
+  - title: "R2112"
+    children:
+      - title: "Summary"
+        url: /rhs/r-2112-index/
