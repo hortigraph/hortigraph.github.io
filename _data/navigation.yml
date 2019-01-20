@@ -17,7 +17,7 @@ rhs:
   - title: "R2101"
     children:
       - title: "Summary"
-        url: /rhs/r-2101-index/
+        url: /rhs/r-2101/
       - title: "R2101 1"
         url: /rhs/r-2101-1/
       - title: "R2101 2"
@@ -29,7 +29,7 @@ rhs:
   - title: "R2102"
     children:
       - title: "Summary"
-        url: /rhs/r-2102-index/
+        url: /rhs/r-2102/
       - title: "R2102 1"
         url: /rhs/r-2102-1/
       - title: "R2102 3"
@@ -37,8 +37,8 @@ rhs:
   - title: "R2111"
     children:
       - title: "Summary"
-        url: /rhs/r-2111-index/
+        url: /rhs/r-2111/
   - title: "R2112"
     children:
       - title: "Summary"
-        url: /rhs/r-2112-index/
+        url: /rhs/r-2112/
