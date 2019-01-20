@@ -271,6 +271,7 @@ defaults:
       share: true
       read_time: true
       comments: true
+      toc: true
       excerpt: ""
       header:
         overlay_color: "#333"
