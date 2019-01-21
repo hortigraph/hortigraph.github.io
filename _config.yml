@@ -279,6 +279,22 @@ defaults:
         overlay_color: "#333"
       sidebar:
         nav: "rhs"
+  # _anatomy
+  - scope:
+      path: ""
+      type: anatomy
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      comments: true
+      toc: true
+      excerpt: ""
+      header:
+        overlay_filter: 0.3
+      sidebar:
+        nav: "botany"
   # _cytology
   - scope:
       path: ""
@@ -315,6 +331,9 @@ collections:
   pests:
     output: true
     permalink: /:collection/:path
+  anatomy:
+    output: true
+    permalink: /botany/:collection/:path
   cytology:
     output: true
     permalink: /botany/:collection/:path
