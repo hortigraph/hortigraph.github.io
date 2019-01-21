@@ -1,6 +1,7 @@
 ---
 title: Cytology
 permalink: /botany/cytology/index.html
+redirect_from: "/cytology"
 
 ---
 
