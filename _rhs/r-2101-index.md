@@ -1,6 +1,6 @@
 ---
 title: R 2101 Summary
-permalink: rhs/index.html
+permalink: rhs/r-2101/index.html
 
 ---
 
