@@ -315,7 +315,7 @@ collections:
     permalink: /:collection/:path
   cytology:
     output: true
-    permalink: botany/:collection/:path
+    permalink: /botany/:collection/:path
   rhs:
     output: true
     permalink: /:collection/:path/
