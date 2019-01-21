@@ -277,10 +277,10 @@ defaults:
         overlay_color: "#333"
       sidebar:
         nav: "rhs"
-  # _botany
+  # _cytology
   - scope:
       path: ""
-      type: botany
+      type: cytology
     values:
       layout: single
       author_profile: false
