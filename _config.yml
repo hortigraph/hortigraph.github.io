@@ -313,9 +313,9 @@ collections:
   pests:
     output: true
     permalink: /:collection/:path
-  botany:
+  cytology:
     output: true
-    permalink: /:collection/:science/:path
+    permalink: botany/:collection/:path
   rhs:
     output: true
     permalink: /:collection/:path/
