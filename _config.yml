@@ -277,6 +277,22 @@ defaults:
         overlay_color: "#333"
       sidebar:
         nav: "rhs"
+  # _botany
+  - scope:
+      path: ""
+      type: botany
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      comments: true
+      toc: true
+      excerpt: ""
+      header:
+        overlay_color: "#333"
+      #sidebar:
+        #nav: "rhs"
   # _posts
   - scope:
       path: ""
@@ -297,6 +313,9 @@ collections:
   pests:
     output: true
     permalink: /:collection/:path
+  botany:
+    output: true
+    permalink: /:collection/:science/:path
   rhs:
     output: true
     permalink: /:collection/:path/
