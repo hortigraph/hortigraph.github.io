@@ -1,5 +1,7 @@
 ---
-
+title: Plant cell life cycle
+author: Nigel Wheeler
+science: cytology
 
 ---
 
