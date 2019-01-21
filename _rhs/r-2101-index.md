@@ -1,6 +1,5 @@
 ---
-title: R2101 - Plant classification, structure and function
-permalink: /rhs/r-2101/index.html
+
 
 ---
 
@@ -47,6 +46,8 @@ permalink: /rhs/r-2101/index.html
 <p><code>SEED</code>, <code>JUVENILE</code>, <code>VEGETATIVE</code>, <code>ADULT</code>, <code>REPRODUCTIVE</code>, <code>SENESCENCE</code>, <code>DEATH</code></p>
 <h3 id="plant-types">Plant Types</h3>
 <p><code>ANNUAL</code> (dis. Botany), <code>EPHEMERAL</code>, <code>BIENNIAL</code>(dis. Botany) ,<code>PERENNIAL</code>(dis. Botany),  <code>ANNUAL</code> (dis. Horticulture), <code>BEDDING</code>,  <code>BIENNIAL</code> (dis. Horticulture), <code>PERENNIAL</code> (dis. Horticulture), <code>HERBACEOUS</code>, <code>WOODY</code>, <code>EVERGREEN</code>, <code>SEMI-EVERGREEN</code>, <code>TENDER PERENNIAL</code>, <code>HALF HARDY ANNUAL</code>, <code>HARDY ANNUAL</code>, <code>SHRUB</code>, <code>TREE</code></p>
+<h3 id="cells">Cells</h3>
+<p><code>CELL WALL</code>,<code>CELL MEMBRANE</code>, <code>SELECTIVELY PERMEABLE</code>, <code>NUCLEUS</code>, <code>VACUOLE</code>, <code>CELL TURGOR</code>, <code>CYTOPLASM</code>,  <code>CHLOROPLAST</code>, <code>CHLOROPHYLL</code>, <code>CATALYST</code>, <code>PHOTOSYNTHESIS</code>, <code>MITOCHONDRION</code>, <code>RESPIRATION</code>, <code>APICAL MERISTEM</code>, <code>LATERAL MERISTEM</code>, <code>SECONDARY THICKENING</code>, <code>CAMBIUM</code>, <code>CELL DIVISION</code>, <code>ZONE OF CELL DIVISION</code>, <code>MERISTEMATIC CELLS</code>,<code>UNDIFFERENTIATED CELLS</code> , <code>CELL ELONGATION</code> ,<code>ZONE OF CELL ELONGATION</code>, <code>CELL DIFFERENTIATION</code>,  <code>ZONE OF CELL DIFFERNTIATION</code>, <code>DIFFERENTIATED CELLS</code>, <code>PLANT TISSUES</code>. <code>CELL MATURATION</code>, <code>ZONE OF CELL MATURATION</code></p>
 <h2 id="plant-examples">Plant Examples</h2>
 <h3 id="naming-1">Naming</h3>
 <p>[<code>BINOMIAL NAME</code>  : HOW WRITTEN][3]<br>
