@@ -9,7 +9,23 @@ main:
   #- title: "Sample Collections"
   #  url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/  
+  #   url: /sitemap/
+# botany exams
+botany:
+  - title: "Botany Summary"
+    url: /botany/
+  - title: "Cytology - The strucure and function of cells"
+    children:
+      - title: "Cytology Summary"
+        url: /botany/cytology/
+      - title: "Cell Structure"
+        url: /botany/cytology/cell-structure/
+      - title: "Cell Life Cycle"
+        url: /botany/cytology/cell-life-cycle/
+  - title: "Physiology - How plants function"
+    children:
+      - title: "Physiology Summary"
+        url: /botany/physiology/
 # rhs exams
 rhs:
   - title: Overview
