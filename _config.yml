@@ -279,6 +279,22 @@ defaults:
         overlay_color: "#333"
       sidebar:
         nav: "rhs"
+  # _glossary
+  - scope:
+      path: ""
+      type: glossary
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      comments: false
+      toc: false
+      excerpt: ""
+      header:
+        overlay_color: "#333"
+      #sidebar:
+        #nav: "rhs"
   # _anatomy
   - scope:
       path: ""
@@ -340,3 +356,6 @@ collections:
   rhs:
     output: true
     permalink: /:collection/:path/
+  glossary:
+    output: true
+    permalink: /:path/
