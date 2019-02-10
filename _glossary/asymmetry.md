@@ -1,5 +1,8 @@
-## ASYMMETRY
-### Definition
-Asymmetry can be ‘messy’ or can have an underlying rhythm or balance.
+---
+title: ASYMMETRY
+---
+`ASYMMETRY`
 
-### Description
+Asymmetry can be ‘messy’ or can have an underlying rhythm or balance.`
+
+undefined

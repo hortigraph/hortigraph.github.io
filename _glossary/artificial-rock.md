@@ -1,5 +1,8 @@
-## ARTIFICIAL ROCK
-### Definition
+---
+title: ARTIFICIAL ROCK
+---
+`ARTIFICIAL ROCK`
 
+undefined`
 
-### Description
+undefined

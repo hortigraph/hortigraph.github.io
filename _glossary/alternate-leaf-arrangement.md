@@ -1,5 +1,8 @@
-## ALTERNATE LEAF ARRANGEMENT
-### Definition
+---
+title: ALTERNATE LEAF ARRANGEMENT
+---
+`ALTERNATE LEAF ARRANGEMENT`
 
+undefined`
 
-### Description
+undefined

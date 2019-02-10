@@ -1,5 +1,8 @@
-## AXILLARY BUD
-### Definition
-See stem-features
+---
+title: AXILLARY BUD
+---
+`AXILLARY BUD`
 
-### Description
+See stem-features`
+
+undefined

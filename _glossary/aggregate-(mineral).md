@@ -1,5 +1,8 @@
-## AGGREGATE (MINERAL)
-### Definition
+---
+title: AGGREGATE (MINERAL)
+---
+`AGGREGATE (MINERAL)`
 
+undefined`
 
-### Description
+undefined

@@ -1,5 +1,8 @@
-## AVAILABLE WATER CONTENT
-### Definition
-The amount of water that can be used by a plant between field capacity and permanent wilting point;
+---
+title: AVAILABLE WATER CONTENT
+---
+`AVAILABLE WATER CONTENT`
 
-### Description
+The amount of water that can be used by a plant between field capacity and permanent wilting point;`
+
+undefined

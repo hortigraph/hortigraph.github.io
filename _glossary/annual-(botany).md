@@ -1,5 +1,8 @@
-## ANNUAL (BOTANY)
-### Definition
-Plant which completes its LIFE CYCLE in one GROWING SEASON
+---
+title: ANNUAL (BOTANY)
+---
+`ANNUAL (BOTANY)`
 
-### Description
+Plant which completes its LIFE CYCLE in one GROWING SEASON`
+
+undefined

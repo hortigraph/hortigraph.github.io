@@ -1,5 +1,8 @@
-## ALGINATE
-### Definition
+---
+title: ALGINATE
+---
+`ALGINATE`
 
+undefined`
 
-### Description
+undefined

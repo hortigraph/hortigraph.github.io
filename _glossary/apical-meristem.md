@@ -1,10 +1,12 @@
-## APICAL MERISTEM
-### Definition
+---
+title: APICAL MERISTEM
+---
+`APICAL MERISTEM`
+
  - `APICAL MERISTEM`: 
          - In **shoots** (Buds) & 
-         - **root tips**
+         - **root tips**`
 
-### Description
 Cell division.
 Zone of elongation – cells elongate giving growth.
 Zone of differentiation/maturation – layers of tissues form.
