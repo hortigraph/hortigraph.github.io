@@ -4,4 +4,7 @@ plant:
   genus: dianthus
   species: alpinus
 ---
-{{ page.plant | jsonify | remove: '<p>' | remove: '</p>' }}
+<script>
+var x = {{ page.plant | jsonify | remove: '<p>' | remove: '</p>' }}
+x;
+</script>
