@@ -1,5 +1,8 @@
-## BRICK WALL
-### Definition
+---
+title: BRICK WALL
+---
+`BRICK WALL`
 
+undefined`
 
-### Description
+undefined

@@ -1,5 +1,8 @@
-## BROWN EARTH
-### Definition
-A soil type
+---
+title: BROWN EARTH
+---
+`BROWN EARTH`
 
-### Description
+A soil type`
+
+undefined

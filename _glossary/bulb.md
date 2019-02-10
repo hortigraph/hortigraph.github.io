@@ -1,6 +1,8 @@
-## BULB
-### Definition
+---
+title: BULB
+---
+`BULB`
 
+`
 
-### Description
 Storage/perennation by bulbs (Narcissus and Lilium):

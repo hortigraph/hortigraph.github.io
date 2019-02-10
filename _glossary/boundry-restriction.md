@@ -1,5 +1,8 @@
-## BOUNDRY RESTRICTION
-### Definition
+---
+title: BOUNDRY RESTRICTION
+---
+`BOUNDRY RESTRICTION`
 
+undefined`
 
-### Description
+undefined

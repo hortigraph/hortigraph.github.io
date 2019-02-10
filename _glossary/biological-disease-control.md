@@ -1,5 +1,8 @@
-## BIOLOGICAL DISEASE CONTROL
-### Definition
-Control of diseases through other biological organisms
+---
+title: BIOLOGICAL DISEASE CONTROL
+---
+`BIOLOGICAL DISEASE CONTROL`
 
-### Description
+Control of diseases through other biological organisms`
+
+undefined

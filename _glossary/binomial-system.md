@@ -1,5 +1,8 @@
-## BINOMIAL SYSTEM
-### Definition
-The system of using BINOMIAL NAMEs to classify plants
+---
+title: BINOMIAL SYSTEM
+---
+`BINOMIAL SYSTEM`
 
-### Description
+The system of using BINOMIAL NAMEs to classify plants`
+
+undefined

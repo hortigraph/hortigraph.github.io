@@ -1,5 +1,8 @@
-## BED
-### Definition
+---
+title: BED
+---
+`BED`
 
+undefined`
 
-### Description
+undefined

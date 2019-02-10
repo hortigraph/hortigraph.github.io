@@ -1,6 +1,8 @@
-## BIOLOGICAL PEST CONTROL
-### Definition
-Control of pests through other biological organisms
+---
+title: BIOLOGICAL PEST CONTROL
+---
+`BIOLOGICAL PEST CONTROL`
 
-### Description
+Control of pests through other biological organisms`
+
 eg NEMATODEs, PARASITIC WASPs

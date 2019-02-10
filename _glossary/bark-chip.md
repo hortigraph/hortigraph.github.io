@@ -1,8 +1,10 @@
-## BARK CHIP
-### Definition
+---
+title: BARK CHIP
+---
+`BARK CHIP`
 
+`
 
-### Description
 Landscaping: Natural look for woodland paths;
 Smell/pine;
 Local can be cheap;

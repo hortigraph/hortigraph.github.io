@@ -1,5 +1,8 @@
-## BOCKING 14
-### Definition
-Sterile stain of comfrey, good for making comfrey tea
+---
+title: BOCKING 14
+---
+`BOCKING 14`
 
-### Description
+Sterile stain of comfrey, good for making comfrey tea`
+
+undefined

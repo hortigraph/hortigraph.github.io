@@ -1,5 +1,8 @@
-## BARLEY STRAW EXTRACT
-### Definition
+---
+title: BARLEY STRAW EXTRACT
+---
+`BARLEY STRAW EXTRACT`
 
+undefined`
 
-### Description
+undefined

@@ -1,5 +1,8 @@
-## BLACK GOLD
-### Definition
+---
+title: BLACK GOLD
+---
+`BLACK GOLD`
 
+undefined`
 
-### Description
+undefined

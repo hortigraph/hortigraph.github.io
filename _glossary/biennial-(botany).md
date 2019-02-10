@@ -1,5 +1,8 @@
-## BIENNIAL (BOTANY)
-### Definition
-Plant which completes its LIFE CYCLE in two GROWING SEASONs
+---
+title: BIENNIAL (BOTANY)
+---
+`BIENNIAL (BOTANY)`
 
-### Description
+Plant which completes its LIFE CYCLE in two GROWING SEASONs`
+
+undefined

@@ -1,5 +1,8 @@
-## BARE ROOT
-### Definition
+---
+title: BARE ROOT
+---
+`BARE ROOT`
 
+undefined`
 
-### Description
+undefined

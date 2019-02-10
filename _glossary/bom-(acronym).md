@@ -1,5 +1,8 @@
-## BOM (ACRONYM)
-### Definition
-bulky-organic-matter
+---
+title: BOM (ACRONYM)
+---
+`BOM (ACRONYM)`
 
-### Description
+bulky-organic-matter`
+
+undefined

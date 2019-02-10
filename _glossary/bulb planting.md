@@ -1,8 +1,10 @@
-## BULB PLANTING
-### Definition
-Planting techniques for bulbs, in the ground or in containers
+---
+title: BULB PLANTING
+---
+`BULB PLANTING`
 
-### Description
+Planting techniques for bulbs, in the ground or in containers`
+
 When to plant bulbsWhere to plant bulbsHow to plant bulbsProblems
 Suitable for...
 Bulbs are useful for adding colour to spring borders. Tulips come in all shades, from dark purple to white, and bloom at a time of year when many plants offer muted colours. Other bulbs, such as snowdrops and scillas, are some of the earliest flowering plants in the garden, brightening up the short days of very early spring.

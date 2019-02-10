@@ -1,5 +1,8 @@
-## BORROWED VIEW
-### Definition
+---
+title: BORROWED VIEW
+---
+`BORROWED VIEW`
 
+undefined`
 
-### Description
+undefined

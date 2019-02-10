@@ -1,5 +1,8 @@
-## BLUE SLATE CHIPPINGS
-### Definition
+---
+title: BLUE SLATE CHIPPINGS
+---
+`BLUE SLATE CHIPPINGS`
 
+undefined`
 
-### Description
+undefined

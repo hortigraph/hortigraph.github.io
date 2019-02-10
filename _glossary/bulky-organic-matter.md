@@ -1,8 +1,10 @@
-## BULKY ORGANIC MATTER
-### Definition
+---
+title: BULKY ORGANIC MATTER
+---
+`BULKY ORGANIC MATTER`
 
+`
 
-### Description
 "BOM has a great physical effect on the soil structure:
 Long manure/young compost opens up heavy soils;
 Short manure/well-rotted compost sticks light soils together.

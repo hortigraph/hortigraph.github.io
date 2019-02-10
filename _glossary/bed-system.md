@@ -1,8 +1,10 @@
-## BED SYSTEM
-### Definition
+---
+title: BED SYSTEM
+---
+`BED SYSTEM`
 
+`
 
-### Description
 Traditional allotment growing is based on single rows of crops at varying distances apart being grown across the area, using the gaps between the rows for access;
 The bed system separates the growing area into distinct beds, usually 1.2 - 1.5 m wide, middle can be reached from either side, with paths 38/45 cm between and crops being grown in blocks, where the rows are often much closer together as access is from the paths and not from between the plants;
 The beds can be temporarily marked out each season and the crops grown on flat beds, much as normal.  Or permanent raised beds can be created, either by digging up into raised beds or creating a structure.

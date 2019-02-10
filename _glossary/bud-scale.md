@@ -1,5 +1,8 @@
-## BUD SCALE
-### Definition
-See stem-features
+---
+title: BUD SCALE
+---
+`BUD SCALE`
 
-### Description
+See stem-features`
+
+undefined

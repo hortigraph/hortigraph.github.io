@@ -1,5 +1,8 @@
-## BOUNDRY DISPUTE
-### Definition
+---
+title: BOUNDRY DISPUTE
+---
+`BOUNDRY DISPUTE`
 
+undefined`
 
-### Description
+undefined

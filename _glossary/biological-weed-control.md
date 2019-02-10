@@ -1,5 +1,8 @@
-## BIOLOGICAL WEED CONTROL
-### Definition
-Control of weeds through other biological organisms
+---
+title: BIOLOGICAL WEED CONTROL
+---
+`BIOLOGICAL WEED CONTROL`
 
-### Description
+Control of weeds through other biological organisms`
+
+undefined
