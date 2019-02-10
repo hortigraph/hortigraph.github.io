@@ -255,6 +255,12 @@ compress_html:
 
 # Defaults
 defaults:
+  # _api
+  - scope:
+      path: ""
+      type: api
+    values:
+      layout: null
   # _pests
   - scope:
       path: ""
@@ -343,6 +349,10 @@ defaults:
       
 
 #collections
+collections:
+  api:
+    output: true
+    permalink: /:collection/:path
 collections:
   pests:
     output: true
