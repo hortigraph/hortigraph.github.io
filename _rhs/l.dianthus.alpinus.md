@@ -6,12 +6,7 @@ plant:
   genus: dianthus
   species: alpinus
 ---
-
-{{ page.genus }} {{ page.species }}
-
-nested:
-{{ page.plant.genus }} {{ page.plant.species }}
-
+{{ page.plant | jsonify }}
 
 
 
