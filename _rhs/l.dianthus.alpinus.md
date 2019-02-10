@@ -1,4 +1,5 @@
 ---
+template: ""
 genus: Dianthus
 species: alpinus
 title: Dianthus alpinus
