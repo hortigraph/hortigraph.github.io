@@ -1,0 +1,8 @@
+---
+title: PROTECTIVE-TISSUE
+---
+`PROTECTIVE-TISSUE`
+
+SEE EPIDERMIS`
+
+undefined
