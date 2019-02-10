@@ -1,5 +1,4 @@
 ---
-layout: null
 plant:
   genus: galanthus
   species: nivalis
