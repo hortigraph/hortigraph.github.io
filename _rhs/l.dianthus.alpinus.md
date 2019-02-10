@@ -8,9 +8,9 @@ plant:
   species: alpinus
 ---
 
-{{ page.plant | jsonify }}
+
 
 {{ page.content | remove: '<p>' | remove: '</p>' }}
 
 
-
+{{ page.plant | jsonify }}
