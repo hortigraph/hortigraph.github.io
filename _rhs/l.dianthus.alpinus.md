@@ -9,5 +9,7 @@ plant:
 ---
 {{ page.plant | jsonify }}
 
+{{ page.excerpt | remove: '<p>' | remove: '</p>' }}
+
 
 
