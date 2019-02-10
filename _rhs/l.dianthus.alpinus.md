@@ -1,13 +1,6 @@
 ---
-genus: dianthus
+genus: Dianthus
 species: alpinus
 ---
 
-TEST BEFORE
-
-## {{ page.genus }}
-### {{ page.species }}
-
-
-
-TEST AFTER
+{{ page.genus }} {{ page.species }}
