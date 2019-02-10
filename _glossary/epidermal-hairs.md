@@ -1,0 +1,8 @@
+---
+title: EPIDERMAL HAIRS
+---
+`EPIDERMAL HAIRS`
+
+`
+
+Hairs on EPIDERMIS
