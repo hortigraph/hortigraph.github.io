@@ -1,5 +1,8 @@
-## DEATH (LIFE CYCLE)
-### Definition
-The final stage of plant lifecycle at which metabolic processes cease and cells die
+---
+title: DEATH (LIFE CYCLE)
+---
+`DEATH (LIFE CYCLE)`
 
-### Description
+The final stage of plant lifecycle at which metabolic processes cease and cells die`
+
+undefined

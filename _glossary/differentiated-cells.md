@@ -1,5 +1,8 @@
-## DIFFERENTIATED CELLS
-### Definition
-         - The `DIFFERENTIATED CELLS` form specialised `PLANT TISSUES`
+---
+title: DIFFERENTIATED CELLS
+---
+`DIFFERENTIATED CELLS`
 
-### Description
+         - The `DIFFERENTIATED CELLS` form specialised `PLANT TISSUES``
+
+undefined

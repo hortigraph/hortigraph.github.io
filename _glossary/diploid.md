@@ -1,5 +1,8 @@
-## DIPLOID
-### Definition
+---
+title: DIPLOID
+---
+`DIPLOID`
 
+undefined`
 
-### Description
+undefined

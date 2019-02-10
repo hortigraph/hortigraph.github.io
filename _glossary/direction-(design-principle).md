@@ -1,5 +1,8 @@
-## DIRECTION (DESIGN PRINCIPLE)
-### Definition
-Direction can be indicated by paths or by focal points
+---
+title: DIRECTION (DESIGN PRINCIPLE)
+---
+`DIRECTION (DESIGN PRINCIPLE)`
 
-### Description
+Direction can be indicated by paths or by focal points`
+
+undefined

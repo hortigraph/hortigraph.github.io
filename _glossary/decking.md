@@ -1,8 +1,10 @@
-## DECKING
-### Definition
+---
+title: DECKING
+---
+`DECKING`
 
+`
 
-### Description
 Patio made of decking wood;
 Often raised, providing a place to view the garden at a commonly raised height in relation to other garden areas;
 Uses ridged, treated planking;

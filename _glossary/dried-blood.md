@@ -1,5 +1,8 @@
-## DRIED BLOOD
-### Definition
+---
+title: DRIED BLOOD
+---
+`DRIED BLOOD`
 
+undefined`
 
-### Description
+undefined

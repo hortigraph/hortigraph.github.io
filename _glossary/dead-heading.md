@@ -1,5 +1,8 @@
-## DEAD HEADING
-### Definition
-Remove spent flowers to encourage blooming. Some sterile F1 HYBRIDs do not require dead heading.
+---
+title: DEAD HEADING
+---
+`DEAD HEADING`
 
-### Description
+Remove spent flowers to encourage blooming. Some sterile F1 HYBRIDs do not require dead heading.`
+
+undefined

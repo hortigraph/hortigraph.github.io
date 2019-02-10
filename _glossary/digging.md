@@ -1,8 +1,10 @@
-## DIGGING
-### Definition
+---
+title: DIGGING
+---
+`DIGGING`
 
+`
 
-### Description
 Breaks up the soil, aerating the soil, relieving compaction and improving drainage.  
 
 Allows perennial weeds to be dug out and annual weeds to be dug in.  

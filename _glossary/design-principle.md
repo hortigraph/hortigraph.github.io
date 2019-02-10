@@ -1,8 +1,10 @@
-## DESIGN PRINCIPLE
-### Definition
-Principles of design relating to garden planning
+---
+title: DESIGN PRINCIPLE
+---
+`DESIGN PRINCIPLE`
 
-### Description
+Principles of design relating to garden planning`
+
 Principles of design relating to garden planning
 Unity/Cohesion 
 Scale/Proportion

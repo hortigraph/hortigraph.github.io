@@ -1,6 +1,8 @@
-## DISEASE CONTROL
-### Definition
-Control of disease
+---
+title: DISEASE CONTROL
+---
+`DISEASE CONTROL`
 
-### Description
+Control of disease`
+
 Can include cultural, biological and chemical methods.

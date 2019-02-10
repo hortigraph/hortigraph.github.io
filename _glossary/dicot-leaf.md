@@ -1,5 +1,8 @@
-## DICOT LEAF
-### Definition
+---
+title: DICOT LEAF
+---
+`DICOT LEAF`
 
+undefined`
 
-### Description
+undefined

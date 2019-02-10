@@ -1,5 +1,8 @@
-## DICOT ROOT
-### Definition
+---
+title: DICOT ROOT
+---
+`DICOT ROOT`
 
+undefined`
 
-### Description
+undefined

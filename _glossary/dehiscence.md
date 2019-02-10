@@ -1,5 +1,8 @@
-## DEHISCENCE
-### Definition
- fruit splits open to release the seeds, e.g., Papaver orientalis;
+---
+title: DEHISCENCE
+---
+`DEHISCENCE`
 
-### Description
+ fruit splits open to release the seeds, e.g., Papaver orientalis;`
+
+undefined

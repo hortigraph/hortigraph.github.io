@@ -1,5 +1,8 @@
-## DICOTYLEDON
-### Definition
-A plant with two seed leaves in each seed.
+---
+title: DICOTYLEDON
+---
+`DICOTYLEDON`
 
-### Description
+A plant with two seed leaves in each seed.`
+
+undefined

@@ -1,5 +1,8 @@
-## DICOT SEED
-### Definition
+---
+title: DICOT SEED
+---
+`DICOT SEED`
 
+undefined`
 
-### Description
+undefined
