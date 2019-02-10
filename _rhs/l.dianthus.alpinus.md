@@ -1,6 +1,6 @@
 ---
-genus:dianthus
-species:alpinus
+genus: dianthus
+species: alpinus
 ---
 
 TEST BEFORE
