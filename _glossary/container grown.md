@@ -1,0 +1,45 @@
+---
+title: CONTAINER GROWN
+---
+`CONTAINER GROWN`
+
+Container-grown plants can be planted any time of the year, but are easier to care for if planted in autumn or winter, as they need less watering than ones planted in spring or summer`
+
+Restricted Root Volume:
+Compared to growing in an open soil situation the root zone can be considerably restricted in containers – especially for larger plants.  Plants will be fully dependent on the gardener for water and feeding if sustained, healthy growth is to be maintained. 
+Responsibility but also control and less weight.
+
+Water Supply and Retention:
+Plants will be fully dependent on the gardener for water supply.  Water should be of a suitable pH for the plant. 
+May need to collect rainwater or treat stored water to maintain slight acidity. 
+The compost needs to hold/retain as much water as it can after watering and drainage has stopped.  Addition of water retaining materials such as peat or water retaining polymers (Broadleaf P4) to the compost is required.  A volume of compost will hold a measurable amount of water for its structure.  If the plant can lose this amount in less than 24 hours, watering needs to be more frequent than each 24 hours. 
+Lighter plants are easier to transport.
+
+Drainage:
+All containers must have drainage holes in the base.  Containers should not  get water logged.  (There are special containers for hydroponic or self-watering). Plastic pots usually 2 layers of drainage holes. Permanent pots – clay may only have one hole- easily blocked.
+
+
+Stability of Compost Materials:
+Some materials used in potting compost are fairly stable and consistent (uniform), e.g., peat/grits/bark, and these products do not shrink greatly during their season of use.  Loam is variable by its nature and ideally medium loam is recommended, (Lawrence and Newell) though again it is stable.  Some products such as composted green waste can be very variable and have poor stability (the contents of a seed tray shrinking to half its depth in a 6 to 8 week period).
+Measured by volume rather than weight 30 – 60 Lt, because of moisture levels, but can be misleading.
+
+Nutrients:
+Loam (clay) in compost provides a basic natural complete nutrient content of major and minor plant foods held in soil by?.  This is supplemented by the addition of a base fertiliser when being mixed into a potting compost (John Innes base fertiliser).  By altering the rate of fertilisers used we get a range of potting composts (J.I. Numbers 1, 2 & 3) to suit different uses.  All other potting compost whether peat or peat free has to have all the nutrients needed by the plant to be added, including trace elements.
+
+Partial/Sterility:
+Peat and grit are assumed sterile (if stored correctly).
+Composted products:
+Green waste/bark/straw are assumed sterilised by the composting process??
+Loam is partially sterilised to kill harmful pests/diseases/weed seeds and roots by heating to between 71ºC and 82ºC (160/180ºF) which kills all the bad things but not the bacteria of the nitrogen cycle.
+
+Weight/Density:
+Heavier composts are the loam based ones which give greater stability to the plant roots in the compost and to the overall plant/especially taller plants.  Tall plants fall easily or are blown over in the wind.
+
+
+
+
+State the limitations of using soils in containers.
+
+Though soil (loam) is a good additive to a compost mixture, on its own it is not a good material to fill pots and containers with.  It can harbour pests/diseases/weed seeds, it can have variable soil texture and structure, it is prone to compaction/poor or excessive drainage and it has variable pH and nutrient content.  Also pots can be heavy to move.  Consider effects of taking5,000 x 50lt away each year.
+
+
