@@ -6,5 +6,5 @@ plant:
 ---
 <script>
 var x = {{ page.plant | jsonify | remove: '<p>' | remove: '</p>' }}
-return x;
+document.write(x);
 </script>
