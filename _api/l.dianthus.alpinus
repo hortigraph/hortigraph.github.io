@@ -4,4 +4,4 @@ plant:
   genus: dianthus
   species: alpinus
 ---
-{{ page.plant | jsonify | strip_html }}
+{{ page.plant | jsonify }}
