@@ -7,6 +7,4 @@ plant:
   genus: dianthus
   species: alpinus
 ---
-
-
-{{ page.plant | jsonify }}
+{{ page.plant | jsonify | strip_html }}
