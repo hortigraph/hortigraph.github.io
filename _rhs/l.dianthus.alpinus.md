@@ -1,7 +1,7 @@
 ---
 genus: Dianthus
 species: alpinus
-title: {{ page.genus }} {{ page.species }}
+title: Dianthus alpinus
 ---
 
 {{ page.genus }} {{ page.species }}
