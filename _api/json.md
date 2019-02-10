@@ -1,3 +1,7 @@
 ---
+j: {“genus”:”galanthus”,”species”:”nivalis”}
 ---
-{“genus”:”galanthus”,”species”:”nivalis”}
+{ page.j }
+
+
+
